@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "python3 tools/restore_apk.py",
+  "installCommand": "",
+  "outputDirectory": "dist"
+}
