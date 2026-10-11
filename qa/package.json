@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"test":"node portal.mjs"},"dependencies":{"jsdom":"26.1.0"}}

@@ -1,0 +1,439 @@
+{
+  "sitesProjectId": "appgprj_6ac9beaa71908191bf9729bacaeb97dc",
+  "sitesSourceCommit": "077aeb87d98a877e1ab5710a41a44612bc7a76c2",
+  "exportDate": "2026-10-11",
+  "originalFileCount": 85,
+  "originalFiles": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "gitBlobSha": "b1b6d14192505c6c6f4bd438738e1fd63854ea48"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "mode": "100644",
+      "gitBlobSha": "d845f6696d9114f998fa7203557f1fddb4869a73"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "gitBlobSha": "5613abfdb2fb349dd3c6f7bfaa468872469e5879"
+    },
+    {
+      "path": "android/app/build.gradle.kts",
+      "mode": "100644",
+      "gitBlobSha": "03f55250fddbb82fac4e31ef2db14a017c3681ed"
+    },
+    {
+      "path": "android/app/src/androidTest/java/com/nexora/jobs/JobProfileSelectionTest.kt",
+      "mode": "100644",
+      "gitBlobSha": "e937cd8acc8fdf68efbb7df371962d7a4693eb6a"
+    },
+    {
+      "path": "android/app/src/androidTest/java/com/nexora/jobs/JobTitleSelectionTest.kt",
+      "mode": "100644",
+      "gitBlobSha": "acd64bdd9f52cea121859e93690210e3461c8e08"
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "gitBlobSha": "b17169f41711ea68350dbbd2bfbc63c1f1189b4e"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/BackendConfig.kt",
+      "mode": "100644",
+      "gitBlobSha": "6313a751f01752788fb28935029921df38425a4f"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/FormGuidance.kt",
+      "mode": "100644",
+      "gitBlobSha": "0fb0e77c542ce6b3d15662358cd9f99eb88e2b9a"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/JobProfileSelection.kt",
+      "mode": "100644",
+      "gitBlobSha": "70507b3c6a136708972bffff5999375bf959b8e1"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/JobTitleSelection.kt",
+      "mode": "100644",
+      "gitBlobSha": "e3fd7f9aa2283e330fdb27c9eaa8d2d0a8a5fdde"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/JobsRepository.kt",
+      "mode": "100644",
+      "gitBlobSha": "9d471fabf98a1ffa2a364d61cd765e7c1e8434ae"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/MainActivity.kt",
+      "mode": "100644",
+      "gitBlobSha": "7f34151bfb512acba043085a8adfda9e2b36da77"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/Models.kt",
+      "mode": "100644",
+      "gitBlobSha": "c5f29c787ac995d72dda8fa8be55c0379678c851"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/PortalViewModel.kt",
+      "mode": "100644",
+      "gitBlobSha": "ca6bb0878f938975566cf3632ca261d7e74764f7"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/ProfileEditor.kt",
+      "mode": "100644",
+      "gitBlobSha": "5954a895ff3617fcd72e3c46fa5a425f9c5fc627"
+    },
+    {
+      "path": "android/app/src/main/java/com/nexora/jobs/SecureStore.kt",
+      "mode": "100644",
+      "gitBlobSha": "67479086ae7632d4bedb77a01882facf5dd42fe8"
+    },
+    {
+      "path": "android/app/src/main/res/drawable/ic_nexora.xml",
+      "mode": "100644",
+      "gitBlobSha": "cd68155a395a7287093c2abb225d5689124169f7"
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "mode": "100644",
+      "gitBlobSha": "7a4ef6a5e9b8e2faa9f59c3c0b16dc3a01c087cd"
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "mode": "100644",
+      "gitBlobSha": "7a4ef6a5e9b8e2faa9f59c3c0b16dc3a01c087cd"
+    },
+    {
+      "path": "android/app/src/main/res/values-v31/styles.xml",
+      "mode": "100644",
+      "gitBlobSha": "74d6732b801eb8dc3dbf0112e08734f50fde9d3a"
+    },
+    {
+      "path": "android/app/src/main/res/values/colors.xml",
+      "mode": "100644",
+      "gitBlobSha": "4ec92b8015a2fa170d9ad8bbd122f65fa30980fd"
+    },
+    {
+      "path": "android/app/src/main/res/values/styles.xml",
+      "mode": "100644",
+      "gitBlobSha": "b10a39e56a8550fcb0eb265b5f76113cbc333144"
+    },
+    {
+      "path": "android/app/src/main/res/xml/profile_paths.xml",
+      "mode": "100644",
+      "gitBlobSha": "137f351f71768b791d36099551ec0d4228d9a234"
+    },
+    {
+      "path": "android/app/src/test/java/com/nexora/jobs/JobFormValidationTest.kt",
+      "mode": "100644",
+      "gitBlobSha": "96e167ddf6e89a66ab1892333bc95a1ae1ee25b0"
+    },
+    {
+      "path": "android/build.gradle.kts",
+      "mode": "100644",
+      "gitBlobSha": "93f6fe7a0f66dbd2549f4627b2419ff02f501aab"
+    },
+    {
+      "path": "android/gradle.properties",
+      "mode": "100644",
+      "gitBlobSha": "0c56e9fc8b482957b07458a708eabd9be3bb0f43"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.properties",
+      "mode": "100644",
+      "gitBlobSha": "e2847c820046b34569292608a035c8ffc83be95a"
+    },
+    {
+      "path": "android/gradlew",
+      "mode": "100755",
+      "gitBlobSha": "f5feea6d6b116baaca5a2642d4d9fa1f47d574a7"
+    },
+    {
+      "path": "android/gradlew.bat",
+      "mode": "100644",
+      "gitBlobSha": "9b42019c7915b971238526075306ffba3b666dd5"
+    },
+    {
+      "path": "android/settings.gradle.kts",
+      "mode": "100644",
+      "gitBlobSha": "449c2a4f660f0b0851fdd19eccdba513f397bfad"
+    },
+    {
+      "path": "backend/acceptance-job-titles.sql",
+      "mode": "100644",
+      "gitBlobSha": "35f17fcd24e2a02ea99dd2b356c30a4b3e809fa1"
+    },
+    {
+      "path": "backend/acceptance-profile.sql",
+      "mode": "100644",
+      "gitBlobSha": "26b8c33768720cbaef75d868fe2a5627cdbaee52"
+    },
+    {
+      "path": "backend/acceptance-upgrade.sql",
+      "mode": "100644",
+      "gitBlobSha": "4ad5cead90c0e52514ad3b17c747f28d594fc9e1"
+    },
+    {
+      "path": "backend/acceptance.sql",
+      "mode": "100644",
+      "gitBlobSha": "5d160c1a69d180a9a92ec39a2e07462fe9895bd0"
+    },
+    {
+      "path": "backend/application-lock.sql",
+      "mode": "100644",
+      "gitBlobSha": "8df56fdf1961cfc9cd539f8d67f1cd4bb1884ebb"
+    },
+    {
+      "path": "backend/category-history-upsert.sql",
+      "mode": "100644",
+      "gitBlobSha": "78b420f23ada655d89ddd826cc7bd0f2557f8d86"
+    },
+    {
+      "path": "backend/email-templates/README.md",
+      "mode": "100644",
+      "gitBlobSha": "62e0c8233bcef12182b80189f6b5a5a09e8fc2d4"
+    },
+    {
+      "path": "backend/email-templates/confirm.html",
+      "mode": "100644",
+      "gitBlobSha": "7e6f03b8bb011adb237457dfbbc2c56188592abe"
+    },
+    {
+      "path": "backend/email-templates/recovery.html",
+      "mode": "100644",
+      "gitBlobSha": "ad5fd6a61a9538c1644f58dcac5810196d1aac93"
+    },
+    {
+      "path": "backend/form-refinements.sql",
+      "mode": "100644",
+      "gitBlobSha": "60b2ed315f56ee0071019d4d0d2cd8b7cb469590"
+    },
+    {
+      "path": "backend/hardening.sql",
+      "mode": "100644",
+      "gitBlobSha": "6827076c39b35cc6c6a7427f624a142730d83837"
+    },
+    {
+      "path": "backend/job-title-selection.sql",
+      "mode": "100644",
+      "gitBlobSha": "7ff65ca5c0495997e2baa1805400ec30e1ce1bee"
+    },
+    {
+      "path": "backend/profile-guard-fix.sql",
+      "mode": "100644",
+      "gitBlobSha": "7050aaf291fc5c2de2c627a8c01457ce0b15b18e"
+    },
+    {
+      "path": "backend/profile-photo.sql",
+      "mode": "100644",
+      "gitBlobSha": "3199895816aa30d04c058b0e2fa12080a69c6293"
+    },
+    {
+      "path": "backend/schema.sql",
+      "mode": "100644",
+      "gitBlobSha": "65e13861a486a87e042111100a2213aec44a2f00"
+    },
+    {
+      "path": "backend/trigger-record-fix.sql",
+      "mode": "100644",
+      "gitBlobSha": "cfe953fb3bfb5855f989fa7fee308989fb45d7c8"
+    },
+    {
+      "path": "backend/upgrade.sql",
+      "mode": "100644",
+      "gitBlobSha": "c17b689bbb4bfa1ff3340e0f8b2dd18f6aa01766"
+    },
+    {
+      "path": "dist/app.js",
+      "mode": "100644",
+      "gitBlobSha": "53666d47b653ca0699ac87541ff92cf9ad3d5352"
+    },
+    {
+      "path": "dist/config.js",
+      "mode": "100644",
+      "gitBlobSha": "4b07813e34989fb17ff6a7b6eb2f76b9da7a45ae"
+    },
+    {
+      "path": "dist/docs/forms-report.md",
+      "mode": "100644",
+      "gitBlobSha": "a8d3a271d1d5604f8cecafded88bfbad3bdc6c45"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "mode": "100644",
+      "gitBlobSha": "b3337655fa2ef0e9160b669c3eeec8ba3be9bc20"
+    },
+    {
+      "path": "dist/forms.js",
+      "mode": "100644",
+      "gitBlobSha": "71bc402fa138053747e96e16fba236d7cdc901fb"
+    },
+    {
+      "path": "dist/home.css",
+      "mode": "100644",
+      "gitBlobSha": "611e1b8b2c1466172f7ba3d4ac90e9c152878a14"
+    },
+    {
+      "path": "dist/index.html",
+      "mode": "100644",
+      "gitBlobSha": "8a849a3fdc785004878aacb810747a22f7946c52"
+    },
+    {
+      "path": "dist/portal.css",
+      "mode": "100644",
+      "gitBlobSha": "b02f80d9e10127ba4f54fec33acc649a8580c8d8"
+    },
+    {
+      "path": "dist/portal.js",
+      "mode": "100644",
+      "gitBlobSha": "63c6341f2a753166590c8c43d00b908e550615fc"
+    },
+    {
+      "path": "dist/profile.js",
+      "mode": "100644",
+      "gitBlobSha": "a01d2fd195b50dbab9d8a77d99c2d8455a595276"
+    },
+    {
+      "path": "dist/styles.css",
+      "mode": "100644",
+      "gitBlobSha": "9768d572f8045aad74793e3393e288b2256dd51b"
+    },
+    {
+      "path": "qa/FORMS_REPORT.md",
+      "mode": "100644",
+      "gitBlobSha": "a8d3a271d1d5604f8cecafded88bfbad3bdc6c45"
+    },
+    {
+      "path": "qa/JOB_TITLE_REPORT.md",
+      "mode": "100644",
+      "gitBlobSha": "03c9c2422e471efac38dd013de69d8a31f86cb5c"
+    },
+    {
+      "path": "qa/PROFILE_REPORT.md",
+      "mode": "100644",
+      "gitBlobSha": "740e6578a7e3cf7f054c0096d4655514400354b3"
+    },
+    {
+      "path": "qa/UPGRADE_REPORT.md",
+      "mode": "100644",
+      "gitBlobSha": "788de1273f886f1dff4f3a43016935b142e5fbd8"
+    },
+    {
+      "path": "qa/VERIFICATION.md",
+      "mode": "100644",
+      "gitBlobSha": "7e41b821064c6e7ecfdfcb64c155d8045bf1b608"
+    },
+    {
+      "path": "qa/package-lock.json",
+      "mode": "100644",
+      "gitBlobSha": "e54fa9ee8519921eb548b0da2fa54f3f3cb53f74"
+    },
+    {
+      "path": "qa/package.json",
+      "mode": "100644",
+      "gitBlobSha": "d6431b3474f63bd820d9890c5ef6878427485df2"
+    },
+    {
+      "path": "qa/portal.mjs",
+      "mode": "100644",
+      "gitBlobSha": "31c02f65d13e61bca07759739e4ead3224e73d3e"
+    },
+    {
+      "path": "qa/web.mjs",
+      "mode": "100644",
+      "gitBlobSha": "a66694d879e97a0ccdf756d9e924103b389aa554"
+    },
+    {
+      "path": "supabase/migrations/20261010100539_nexora_recruitment_complete.sql",
+      "mode": "100644",
+      "gitBlobSha": "c17b689bbb4bfa1ff3340e0f8b2dd18f6aa01766"
+    },
+    {
+      "path": "supabase/migrations/20261010102636_nexora_recruitment_hardening.sql",
+      "mode": "100644",
+      "gitBlobSha": "6827076c39b35cc6c6a7427f624a142730d83837"
+    },
+    {
+      "path": "supabase/migrations/20261010102840_nexora_recruitment_application_lock.sql",
+      "mode": "100644",
+      "gitBlobSha": "8df56fdf1961cfc9cd539f8d67f1cd4bb1884ebb"
+    },
+    {
+      "path": "supabase/migrations/20261010103949_nexora_recruitment_trigger_record_fix.sql",
+      "mode": "100644",
+      "gitBlobSha": "cfe953fb3bfb5855f989fa7fee308989fb45d7c8"
+    },
+    {
+      "path": "supabase/migrations/20261010111903_nexora_profile_photos.sql",
+      "mode": "100644",
+      "gitBlobSha": "3199895816aa30d04c058b0e2fa12080a69c6293"
+    },
+    {
+      "path": "supabase/migrations/20261010112959_nexora_private_profile_edit_guard.sql",
+      "mode": "100644",
+      "gitBlobSha": "7050aaf291fc5c2de2c627a8c01457ce0b15b18e"
+    },
+    {
+      "path": "supabase/migrations/20261010114642_nexora_fifteen_profiles_primary_job_title.sql",
+      "mode": "100644",
+      "gitBlobSha": "7ff65ca5c0495997e2baa1805400ec30e1ce1bee"
+    },
+    {
+      "path": "supabase/migrations/20261010114825_nexora_category_history_upsert.sql",
+      "mode": "100644",
+      "gitBlobSha": "78b420f23ada655d89ddd826cc7bd0f2557f8d86"
+    },
+    {
+      "path": "supabase/migrations/20261010122404_nexora_form_role_options.sql",
+      "mode": "100644",
+      "gitBlobSha": "60b2ed315f56ee0071019d4d0d2cd8b7cb469590"
+    },
+    {
+      "path": "android/app/src/main/res/drawable-nodpi/nexora_emblem.png",
+      "mode": "100644",
+      "gitBlobSha": "03829727de0660d251ffccd59216b9d8880f1d9e"
+    },
+    {
+      "path": "android/app/src/main/res/drawable-nodpi/nexora_logo.png",
+      "mode": "100644",
+      "gitBlobSha": "b27e1c5ddead64f9b9f60111cb7221ba10dca0b4"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.jar",
+      "mode": "100644",
+      "gitBlobSha": "a4b76b9530d66f5e68d973ea569d8e19de379189"
+    },
+    {
+      "path": "dist/assets/nexora-favicon.png",
+      "mode": "100644",
+      "gitBlobSha": "03829727de0660d251ffccd59216b9d8880f1d9e"
+    },
+    {
+      "path": "dist/assets/nexora-logo.png",
+      "mode": "100644",
+      "gitBlobSha": "b27e1c5ddead64f9b9f60111cb7221ba10dca0b4"
+    },
+    {
+      "path": "dist/assets/salon-roles.png",
+      "mode": "100644",
+      "gitBlobSha": "669e899fa12dd96b1148e86f049357130b252dd1"
+    },
+    {
+      "path": "dist/assets/salon-team.png",
+      "mode": "100644",
+      "gitBlobSha": "23471984926fa9cee1e5f962d3f923712ec10503"
+    },
+    {
+      "path": "dist/downloads/Nexora-Salon-Jobs.apk",
+      "mode": "100644",
+      "gitBlobSha": "95ad38eba8ca118bf6f7db65234e73e2f80d1cc2"
+    }
+  ],
+  "apk": {
+    "stored": "dist/downloads/Nexora-Salon-Jobs.apk.xz",
+    "restoreCommand": "python3 tools/restore_apk.py",
+    "sha256": "4d76532431dbcb3893c695588011d95052177c7062cd26077f4d46023362557b"
+  },
+  "liveDataExported": false
+}

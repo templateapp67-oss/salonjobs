@@ -1,0 +1,13 @@
+android/.gradle/
+android/.kotlin/
+android/**/build/
+android/local.properties
+*.apk
+node_modules/
+.openai/site-workflow-state.json
+.gradle/
+.kotlin/
+
+!dist/downloads/*.apk
+
+supabase/.temp/
